@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92964541773",
+    "project_id": "chatapp-efb2b",
+    "storage_bucket": "chatapp-efb2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92964541773:android:7a8299d2512a9e50279304",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92964541773-b62hopg14oio6gvo9u6jpeq435m5q0t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6x7UUKOfFE7XSEwEIyn4ajWOSjmhlXeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92964541773-b62hopg14oio6gvo9u6jpeq435m5q0t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
